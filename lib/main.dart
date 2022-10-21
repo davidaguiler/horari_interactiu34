@@ -51,7 +51,7 @@ class _HorariState extends State<Horari> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text("Horari de clase"),
+        title: const Text("Horari de classe"),
       ),
       body: Theme(
         data: Theme.of(context).copyWith(
